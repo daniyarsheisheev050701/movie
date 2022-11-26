@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Бывшие",
+        "id": "цена:",
+        "price": "18+" ,
+        "image":"./image/img1.jpg"
+    },
+    {
+        "name": "Сладкая жизнь",
+        "id": "цена:",
+        "price": "16+" ,
+        "image":"./image/im2.jpg"
+    },
+    {
+        "name": "Учителя",
+        "id": "цена:",
+        "price": "12+" ,
+        "image":"./image/img3.jpg"
+    },
+    {
+        "name": "257 причин жить",
+        "id": "цена:",
+        "price": "12+" ,
+        "image":"./image/img4.jpg"
+    },
+    {
+        "name": "Бихеппи",
+        "id": "цена:",
+        "price": "16+" ,
+        "image":"./image/img5.jpg"
+    },
+    {
+        "name": "Полет",
+        "id": "цена:",
+        "price": "12+" ,
+        "image":"./image/img6.jpg"
+    },
+    {
+        "name": "Герда",
+        "id": "цена:",
+        "price": "16+" ,
+        "image":"./image/img7.jpg"
+    },
+    {
+        "name": "Звезда на грани",
+        "id": "цена:",
+        "price": "12+" ,
+        "image":"./image/img8.jpg"
+    } 
+]
